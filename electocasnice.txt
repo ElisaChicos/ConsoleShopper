@@ -1,0 +1,9 @@
+e1 Frigider cu doua usi Beko
+e2 Frigider cu doua usi Samsung
+e3 Frigider cu 2 usi Heinner
+e4 Masina de spalat rufe Samsung
+e5 Masina de spalat rufe slim Whirlpool FreshCare
+e6 Plita incorporabila Electrolux
+e7 Plita incorporabila  Bosch
+e8 Hota incorporabila telescopica Beko CTB6250B
+e9 Tocator Star-Light
